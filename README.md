@@ -68,8 +68,8 @@ src="https://files.catbox.moe/9n8gjp.jpg">
 
 <p align="center">
     <strong>GET PAIR CODE</strong><br>
-    <a href="https://nagiipstar-md-bot.onrender.com" target="_blank">
-        <img src="https://img.shields.io/badge/GET%20PAIR%20CODE-Easy%20Method-ff4d4d?style=for-the-badge" alt="Generate Pair Code"/>
+    <a href="https://vip-nagiipstar-md.onrender.com" target="_blank">
+        <img src="https://img.shields.io/badge/SERVER-1-ff4d4d?style=for-the-badge" alt="Generate Pair Code"/>
     </a>
 </p>
 
